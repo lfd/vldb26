@@ -1,0 +1,1 @@
+{"relations": [{"name": "r42", "baseTable": "", "cardinality": 11000, "unfilteredCardinality": 11000}, {"name": "r51", "baseTable": "", "cardinality": 72505000, "unfilteredCardinality": 72505000}], "joins": [{"relations": ["r42", "r51"]}], "sizes": [{"relations": ["r42", "r51"], "cardinality": 19912}]}

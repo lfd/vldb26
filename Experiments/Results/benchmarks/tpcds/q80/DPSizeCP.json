@@ -1,0 +1,1 @@
+{"costs": 719384.0, "root_join": 0, "join_operands": {"0": [0, 1, 2], "1": [0], "2": [1, 2], "3": [1], "4": [2]}, "join_predecessors": {"0": [1, 2], "2": [3, 4]}, "intermediate_costs": [[[1, 2], 719384.0]]}
