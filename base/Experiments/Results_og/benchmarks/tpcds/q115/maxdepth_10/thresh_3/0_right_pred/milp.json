@@ -1,0 +1,1 @@
+{"costs": 351, "join_operands": {"0": [0, 1, 2], "1": [1, 2]}, "join_predecessors": {"0": [1], "1": []}, "leaf_joins": [], "opt_time": 0.013934850692749023, "status": 2, "intermediate_costs": [[[1, 2], 351.812]]}
